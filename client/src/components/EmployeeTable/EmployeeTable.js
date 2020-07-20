@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react'
-import API from "../API"
+import API from "../../utils/API"
 
 function EmployeeTable(props) {
     // this is where JS logic lives
