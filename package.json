@@ -1,0 +1,28 @@
+{
+  "name": "react-employee-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TressaPark/react-employee-manager.git"
+  },
+  "author": "Tressa Park",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TressaPark/react-employee-manager/issues"
+  },
+  "homepage": "https://github.com/TressaPark/react-employee-manager#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "if-env": "^1.0.4"
+  },
+  "devDependencies": {
+    "concurrently": "^5.2.0",
+    "nodemon": "^2.0.4"
+  }
+}
